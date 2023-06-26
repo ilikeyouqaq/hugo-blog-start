@@ -33,7 +33,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Hugo 演示站点
+        subtitle: Feng's Blog
         avatar:
             enabled: true
             local: true
