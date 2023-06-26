@@ -2,7 +2,7 @@ baseurl: https://hugo-blog-start-58j.pages.dev/
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
-title: Hugo 演示站点
+title: Feng's小站
 
 languages:
     zh-cn:
