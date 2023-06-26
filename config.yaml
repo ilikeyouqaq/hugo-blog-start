@@ -1,8 +1,8 @@
-baseurl: https://example.com
-languageCode: en-us
+baseurl: https://hugo-blog-start-58j.pages.dev/
+languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: Feng's小站
 
 languages:
     en:
