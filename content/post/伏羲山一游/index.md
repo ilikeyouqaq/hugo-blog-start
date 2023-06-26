@@ -1,6 +1,6 @@
 ---
 title: 伏羲山一游
-description: 这是一个副标题
+description: 
 date: 2023-06-26
 slug: 
 image: IMG_20230502_130221.jpg
